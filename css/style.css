@@ -1,1 +1,14 @@
+body{
+background:#0a001f;
+color:white;
+font-family:Arial;
+text-align:center;
+}
+
+nav a{
+margin:10px;
+color:cyan;
+text-decoration:none;
+font-size:18px;
+}
 
